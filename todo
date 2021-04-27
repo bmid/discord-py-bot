@@ -1,0 +1,8 @@
+[x] connect to Discord
+[x] ping pong
+[x] dynamically import commands
+[ ] add field to ask for global variable
+[ ] help command writes all commands, optional help message
+[ ] help message for specific command
+[ ] rotating status message ('presence' in commands)
+[ ] command cooldown per user
